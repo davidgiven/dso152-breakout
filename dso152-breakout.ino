@@ -12,6 +12,8 @@
   Modified 07 11 2020
   By Enrique Albertos
 
+  Crudely hacked into working on the DSO152 on 2024-04-15 by David Given.
+
 
 */
 
